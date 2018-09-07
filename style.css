@@ -1,8 +1,13 @@
 body {
-	color: darkgrey;
+	background-color: black;
+	color: white;
 }
-h1 {
- font-family: 'Montserrat', sans-serif;
- font-color: white;
+h1, h2 {
+ font-family: 'Righteous', cursive;
+ 
  text-align: center;
+}
+a {
+	color: lime;
+	text-decoration: none;
 }
